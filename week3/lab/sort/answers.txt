@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Standard amount of time to go through the entire sorted list, but takes the longest for the reversed list, meaning it had to swap every position.
+
+sort2 uses: Merge sort
+
+How do you know?: It's the fastest 
+
+sort3 uses: Selection sort
+
+How do you know?: Takes the same amount of time to go through the sorted and reversed list, since it always has to analyze every position.
